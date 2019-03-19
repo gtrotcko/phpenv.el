@@ -1,7 +1,6 @@
 # phpenv.el
 
-phpenv.el ia an Emacs extension which integrates the editor with [phpenv]
-(https://github.com/phpenv/phpenv "phpenv/phpenv").
+phpenv.el ia an Emacs extension which integrates the editor with [phpenv](https://github.com/phpenv/phpenv "phpenv/phpenv").
 
 Disclaimer
 ----------
